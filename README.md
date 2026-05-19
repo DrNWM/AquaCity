@@ -2,6 +2,8 @@
 
 A browser-based 2D water management game built with **Phaser** and **Firebase**. Players navigate through multiple stages to solve water distribution challenges, managing pipes and resources to keep the city's water system flowing smoothly.
 
+Live demo: https://aquacity-5b4a9.web.app/
+
 ## 🎮 Game Features
 
 - **Interactive Gameplay**: Manage water pipes and resources across 5 challenging stages
@@ -9,6 +11,23 @@ A browser-based 2D water management game built with **Phaser** and **Firebase**.
 - **Anonymous Authentication**: Firebase-powered login system for seamless gameplay
 - **Real-time Updates**: Dynamic game state synchronized across sessions
 - **Responsive Design**: Play on desktop browsers with smooth performance
+
+## 🎨 Game Screenshots
+
+### Stage 1
+![Stage 1 screenshot](01.png)
+
+### Stage 2
+![Stage 2 screenshot](02.png)
+
+### Stage 3
+![Stage 3 screenshot](03.png)
+
+### Stage 4
+![Stage 4 screenshot](04.png)
+
+### Stage 5
+![Stage 5 screenshot](05.png)
 
 ## 🛠 Tech Stack
 
@@ -31,6 +50,8 @@ AquaCity/
 ├── package.json         # Dependencies
 └── firebase.json        # Firebase configuration
 ```
+
+Additional descriptive files for Stage 1 through Stage 5 with screenshots are included in the project documentation.
 
 ## 🚀 Getting Started
 
