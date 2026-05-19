@@ -1,0 +1,25 @@
+{
+  "name": "aquacity-engineer",
+  "version": "1.0.0",
+  "description": "AquaCity Engineer — Browser-Based 2D Water Management Game",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "game",
+    "phaser",
+    "firebase"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.12.2",
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  }
+}
